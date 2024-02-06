@@ -34,7 +34,5 @@
 1. "Frontend Start" от Айтилогия
 1. "Основы поисковой оптимизации (SEO). Факторы ранжирования сайтов" на платформе Stepik
 1. Плейлист Django уроки от selfedu
-
-
-
-
+1. JavaScript - Полный Курс JavaScript Для Начинающих [11 ЧАСОВ] от Bogdan Stashchuk (2022)
+1. Некоторые видео-уроки по парсингу на Python от PythonToday
