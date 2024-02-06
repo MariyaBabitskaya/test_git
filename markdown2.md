@@ -23,6 +23,6 @@
 - UX/UI дизайн от MyFreedom
 - UX/UI дизайн от Академии "Белхарт"
 - Курс по векторной иллюстрации от BrushGuru
-- Курс по Python разработке от IT Overone
-! [https://storage01.sb.by/iblock/02f/02fa920cef9515800395f036ae49aaf7.jpg]
+- Курс по Python разработке от IT Overone\
+![https://storage01.sb.by/iblock/02f/02fa920cef9515800395f036ae49aaf7.jpg]
 
