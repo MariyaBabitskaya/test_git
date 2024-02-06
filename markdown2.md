@@ -24,5 +24,5 @@
 - UX/UI дизайн от Академии "Белхарт"
 - Курс по векторной иллюстрации от BrushGuru
 - Курс по Python разработке от IT Overone\
-  !(https://storage01.sb.by/iblock/02f/02fa920cef9515800395f036ae49aaf7.jpg)
+![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
 
